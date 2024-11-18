@@ -1,4 +1,4 @@
-# Uploading temperature sensor data in Thing Speak cloud
+# EX-03:Uploading temperature sensor data in Thing Speak cloud
 ## NAME:HARIHARAN J
 ## REG NO:212223240047
 # AIM:
