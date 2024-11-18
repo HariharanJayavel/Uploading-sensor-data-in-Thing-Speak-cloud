@@ -1,5 +1,6 @@
 # Uploading temperature sensor data in Thing Speak cloud
-
+## NAME:HARIHARAN J
+## REG NO:212223240047
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
